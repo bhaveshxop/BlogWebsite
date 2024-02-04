@@ -1,0 +1,39 @@
+.banner {
+    object-fit: cover;
+    height: 700px;  /* Adjust the height as needed */
+}
+.carousel-item h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    text-shadow: 4px 4px 5px #000000;
+    margin-top: 20px;
+}
+.carousel-item p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    text-shadow: 2px 2px 3px #000000;
+    margin-top: 20px;   
+}
+.nav-item  a{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+@keyframes colorChange {
+    0% { color: white; }
+    25% { color: yellow; }
+    50% { color: palegoldenrod; }
+    75% { color: orange; }
+    100% { color: rgb(182, 193, 143); }
+}
+.navbar-brand.bname{
+   
+    animation: colorChange 5s infinite; 
+    text-decoration: none; 
+    font-size: 35px;
+    font-weight: 900;
+}
+    
