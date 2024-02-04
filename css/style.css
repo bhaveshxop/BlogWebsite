@@ -1,6 +1,6 @@
 .banner {
     object-fit: cover;
-    height: 700px;  /* Adjust the height as needed */
+    height: 600px;  /* Adjust the height as needed */
 }
 .carousel-item h1 {
     color: white;
@@ -45,5 +45,25 @@
 }
 .cardimg{
     object-fit: cover;
-    height: 300px;  /* Adjust the height as needed */
+    height: 300px;  
+}
+.card-title{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    text-align: justify;
+}
+section.container footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
 }

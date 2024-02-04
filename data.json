@@ -1,0 +1,39 @@
+[
+    {
+      "image": "./Images/ai.jpeg",
+      "title": "The Future of AI",
+      "text": "Ai is the future of technology and it is going to change the world in the coming years. This card has supporting text below as a natural lead-in to additional content.",
+      "lastUpdated": "Last updated 3 mins ago"
+    },
+    {
+      "image": "./Images/dev.jpeg",
+      "title": "Web Development and visual design",
+      "text": "Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications, electronic businesses, and social network services.",
+      "lastUpdated": "Last updated 59 mins ago"
+    },
+    {
+      "image": "./Images/google.jpg",
+      "title": "The Alphabet inc and its future", 
+      "text": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries.",
+      "lastUpdated": "Last updated 2 hour ago"
+    },
+    {
+      "image": "./Images/electronics.jpg",
+      "title": "The components of Electronics",
+      "text": "Electronics comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter. It uses active devices to control electron flow by amplification and rectification, which distinguishes it from classical electrical engineering which uses passive effects such as resistance, capacitance and inductance to control current flow.",
+      "lastUpdated": "Last updated 16 hour ago"
+    },
+    {
+      "image": "./Images/sv.webp",
+      "title": "The Silicon Valley",
+      "text": "Silicon Valley is a region in Northern California that serves as a global center for high technology, innovation, and social media. It corresponds to the southern part of the San Francisco Bay Area and is part of the larger San Francisco Peninsula.",
+      "lastUpdated": "Last updated 5 days ago"
+    },
+    {
+      "image": "./Images/job.webp",
+      "title": "Hiring in 2024",
+      "text": "The future of hiring is going to change in the coming years. The hiring process is going to be more digital and the companies are going to hire more people in the coming years. This card has supporting text below as a natural lead-in to additional content.",
+      "lastUpdated": "Last updated 2 weeks ago"
+    }
+  ]
+  
