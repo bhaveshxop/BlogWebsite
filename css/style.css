@@ -1,3 +1,4 @@
+
 .banner {
     object-fit: cover;
     height: 600px;  /* Adjust the height as needed */
@@ -66,4 +67,19 @@ section.container footer{
     font-weight: 400;
     text-align: center;
     padding: 20px;
+}
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    border-radius: 8px;  
+}
+.card-row {
+    margin-bottom: 20px; /* Adjust the margin to your preference */
+}
+div .contact{
+    width: 1200px;
+    height: 500px;
+    margin-left: 100px;
+    padding: 20px;
+    border-radius: 8px;
 }
